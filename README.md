@@ -1,6 +1,5 @@
-# Simple Interest Calculator
+# Introduction to Git and GitHub
 
-This project is a simple interest calculator that computes the interest based on the principal amount, rate of interest, and time period.
+This repository contains materials for learning Git and GitHub.
 
-## Formula
-Simple Interest = (Principal * Rate * Time) / 100
+## Fixed a typo by Silyas
